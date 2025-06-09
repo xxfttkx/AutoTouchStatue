@@ -1,0 +1,9 @@
+﻿{
+  "Name": "AutoTouchStatue",
+  "Author": "lauirf",
+  "Version": "1.0.0",
+  "Description": "Automatically touch the statue when approached.",
+  "UniqueID": "lauirf.AutoTouchStatue",
+  "EntryDll": "AutoTouchStatue.dll",
+  "MinimumApiVersion": "3.0.0"
+}
